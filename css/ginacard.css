@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+
+.hidden {
+  display: none;
+}
+
+.hackentines-day-card-container {
+  width: 500px;
+  height: 200px;
+  margin: 40px auto;
+  background-color: #E1E1E1;
+  padding: 150px 25px 250px 25px;
+  cursor: pointer;
+  border-radius: 50px;
+  border: 10px;
+  border-style: solid;
+  border-color: #ff6c6c;
+}
+
+.swatch {
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.boarding {
+  background: url("../images/mouseboarding.jpg") repeat;
+  height: 350px;
+  margin-top: -70px;
+}
+
+.love {
+  background: url("../images/love.png") repeat;
+}
+
+.light-pink-text {
+  color: #fdc8c8;
+}
+
+.black-background {
+  background: #000;
+}
+
+.nova-font {
+  font-family: 'Nova Mono', cursive;
+}
